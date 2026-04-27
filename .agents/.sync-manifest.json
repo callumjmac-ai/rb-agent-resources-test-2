@@ -1,8 +1,6 @@
 {
   "source_repo": "runna-app/rb-agent-resources",
-  "source_commit": "054d4588d14812877a414353f919d244681cfa59",
-  "synced_at": "2026-04-23T15:39:36Z",
-  "managed_resources": [
-    "skills/reviewing-prs"
-  ]
+  "source_commit": "cfb6b222a17524e9b22ffa84a485d24af2c0e00b",
+  "synced_at": "2026-04-27T08:11:26Z",
+  "managed_resources": []
 }
